@@ -17,7 +17,7 @@ The implementation is based on [Tensorflow DNNRegressor](https://www.tensorflow.
 * Python 2.7
 * Jupyter Notebook
 
-This project uses the same [data samples](https://github.com/fleapapa/network_profile_recommender/tree/master/data) as in [network_profile_recommender project](https://github.com/fleapapa/network_profile_recommender). 
+This project uses the same data samples as in [network_profile_recommender project](https://github.com/fleapapa/network_profile_recommender). 
 
 # Contact
 

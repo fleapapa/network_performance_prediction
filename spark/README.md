@@ -12,7 +12,7 @@ See the notebook [regressors.ipynb](https://github.com/fleapapa/Network_performa
 * Python 2.7, Jupyter Notebook
 * [Spark ML](https://spark.apache.org/docs/latest/ml-guide.html)
 
-The notebook uses the same [data samples](https://github.com/fleapapa/network_profile_recommender/tree/master/data) as in [network_profile_recommender project](https://github.com/fleapapa/network_profile_recommender). 
+This project uses the same data samples as in [network_profile_recommender project](https://github.com/fleapapa/network_profile_recommender). 
 
 # Contact
 

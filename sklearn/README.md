@@ -16,7 +16,7 @@ The other notebook [regressors-no-avg-delta](https://github.com/fleapapa/network
 * Python 2.7, Jupyter Notebook
 * [scikit-learn](http://scikit-learn.org/stable/)
 
-The notebooks use the same [data samples](https://github.com/fleapapa/network_profile_recommender/tree/master/data) as in [network_profile_recommender project](https://github.com/fleapapa/network_profile_recommender). 
+This project uses the same data samples as in [network_profile_recommender project](https://github.com/fleapapa/network_profile_recommender). 
 
 # Contact
 
