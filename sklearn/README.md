@@ -9,6 +9,8 @@ See the notebook [regressors.ipynb](https://github.com/fleapapa/network_performa
 
 Another notebook [regressor+PCA.ipynb](https://github.com/fleapapa/network_performance_prediction/blob/master/sklearn/regressor%2BPCA.ipynb) applies PCA to data samples before running the regressors.
 
+The other notebook [regressors-no-avg-delta](https://github.com/fleapapa/network_performance_prediction/blob/master/sklearn/regressors-no-avg-delta.ipynb) embeds time-serial information in data samples and applies the same set of regressors.
+
 # Requirements
 
 * Python 2.7, Jupyter Notebook
